@@ -78,7 +78,7 @@ animateParticles();
 
 // Эффект печатающейся строки (typewriter)
 const typewriterElement = document.getElementById('typewriter');
-const phrases = ["Разработчик, Мечтатель, Долбаеб.", "Сделаю вам бота для тимы."];
+const phrases = ["Разработчик, Мечтатель.", "Сделаю вам бота для тимы."];
 let typewriterIndex = 0;
 let charIndex = 0;
 let currentPhrase = "";
